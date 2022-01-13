@@ -1,14 +1,14 @@
-**+++ 1000 - Wolves Everywhere (Warhammer 40,000 9th Edition) [43 PL, 3CP, 996pts] +++**
+**+++ New Roster (Warhammer 40,000 9th Edition) [43 PL, 3CP, 996pts] +++**
 
 &nbsp;
 
 **++ Outrider Detachment -3CP (Imperium - Adeptus Astartes - Space Wolves) [43 PL, 3CP, 996pts] ++**
 
-**Rules:** *Angels of Death, Bolter Discipline, Bolter Discipline, Shock Assault, Shock Assault*
+**Rules:** *And They Shall Know No Fear, Angels of Death, Bolter Discipline, Combat Doctrines, Shock Assault*
 
 &nbsp;
 
-**+ Configuration +**
+**+ Configuration [3CP] +**
 
 &nbsp;
 
@@ -20,7 +20,7 @@
 
 &nbsp;
 
-**Battle Size [6CP]:** 2. Incursion (51-100 Total PL / 501-1000 Points) 
+**Battle Size [6CP]:** 2. Incursion (51-100 Total PL / 501-1000 Points)  [6CP]
 
 . **Categories:** *Configuration*
 
@@ -32,31 +32,31 @@
 
 &nbsp;
 
-**+ HQ +**
+**+ HQ [16 PL, 320pts] +**
 
 &nbsp;
 
-**Harald Deathwolf [7 PL, 140pts]:** Bolt pistol, Frag & Krak grenades, Glacius, Icetooth, Storm shield
+**Harald Deathwolf [7 PL, 140pts]:** Bolt pistol, Frag & Krak grenades, Glacius, Hunter, Icetooth, Storm shield, Warlord
 
-. **Categories:** *HQ, Faction: Space Wolves, Faction: Adeptus Astartes, Cavalry, Character, Harald Deathwolf, Faction: Imperium, Captain*
+. **Categories:** *HQ, Faction: Space Wolves, Faction: Adeptus Astartes, Cavalry, Character, Harald Deathwolf, Faction: Imperium, Captain, Warlord*
 
 . **Rules:** *Angels of Death, Outflank*
 
-. **Abilities:** *Lord of the Wolfkin (Aura), Mantle of the Troll King, Rites of Battle (Aura), Savage Fury, Storm shield, Swift Hunters*, **Unit:** *Harald Deathwolf*, **Weapon:** *Bolt pistol, Crushing teeth and claws, Frag grenades, Glacius, Krak grenades*
+. **Abilities:** *Hunter, Lord of the Wolfkin (Aura), Mantle of the Troll King, Rites of Battle (Aura), Savage Fury, Storm shield, Swift Hunters*, **Unit:** *Harald Deathwolf*, **Weapon:** *Bolt pistol, Crushing teeth and claws, Frag grenades, Glacius, Krak grenades*
 
 &nbsp;
 
-**Logan Grimnar on Stormrider [9 PL, 180pts]:** Aura of Majesty, Storm bolter, The Axe Morkai, Tyrnak and Fenrir, Warlord
+**Logan Grimnar on Stormrider [9 PL, 180pts]:** Storm bolter, The Axe Morkai, Tyrnak and Fenrir
 
-. **Categories:** *Faction: Adeptus Astartes, Character, HQ, Logan Grimnar, Faction: Space Wolves, Vehicle, Stormrider, Faction: Imperium, Cavalry, Warlord*
+. **Categories:** *Faction: Adeptus Astartes, Character, HQ, Logan Grimnar, Faction: Space Wolves, Vehicle, Stormrider, Faction: Imperium, Cavalry*
 
 . **Rules:** *Angels of Death*
 
-. **Abilities:** *Aura of Majesty, Belt of Russ, Chapter Master, High King of Fenris, Rites of Battle (Aura), Savage Fury, Swift Hunters*, **Stat Damage - M/AddAttks:** *Stormrider Wound Track 1, Stormrider Wound Track 2, Stormrider Wound Track 3*, **Unit:** *Logan Grimnar on Stormrider*, **Weapon:** *Flurry of teeth and claws, Storm bolter, The Axe Morkai - One-handed, The Axe Morkai - Two-handed*
+. **Abilities:** *Belt of Russ, Chapter Master, High King of Fenris, Rites of Battle (Aura), Savage Fury, Swift Hunters*, **Stat Damage - M/AddAttks:** *Stormrider Wound Track 1, Stormrider Wound Track 2, Stormrider Wound Track 3*, **Unit:** *Logan Grimnar on Stormrider*, **Weapon:** *Flurry of teeth and claws, Storm bolter, The Axe Morkai - One-handed, The Axe Morkai - Two-handed*
 
 &nbsp;
 
-**+ Fast Attack +**
+**+ Fast Attack [27 PL, 676pts] +**
 
 &nbsp;
 
@@ -67,7 +67,7 @@
 . **Abilities:** *Pack Mentality, Savage Fury, Swift Hunters*
 
 
-. **13x Fenrisian Wolf:** 13x Teeth and claws
+. **13x Fenrisian Wolf [91pts]:** 13x Teeth and claws
 
 . . **Unit:** *Fenrisian Wolf*, **Weapon:** *Teeth and claws*
 
@@ -82,15 +82,15 @@
 . **Abilities:** *Savage Fury, Swift Hunters*
 
 
-. **Thunderwolf Cavalry:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
-. **Thunderwolf Cavalry:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
-. **Thunderwolf Cavalry Pack Leader:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry Pack Leader [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry Pack Leader*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
@@ -105,15 +105,15 @@
 . **Abilities:** *Savage Fury, Swift Hunters*
 
 
-. **Thunderwolf Cavalry:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
-. **Thunderwolf Cavalry:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
-. **Thunderwolf Cavalry Pack Leader:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry Pack Leader [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry Pack Leader*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
@@ -128,15 +128,15 @@
 . **Abilities:** *Savage Fury, Swift Hunters*
 
 
-. **Thunderwolf Cavalry:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
-. **Thunderwolf Cavalry:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
-. **Thunderwolf Cavalry Pack Leader:** Frag & Krak grenades, Storm shield, Thunder hammer, Thunderwolf
+. **Thunderwolf Cavalry Pack Leader [65pts]:** Frag & Krak grenades, Storm shield [5pts], Thunder hammer [15pts], Thunderwolf
 
 . . **Abilities:** *Storm shield*, **Unit:** *Thunderwolf Cavalry Pack Leader*, **Weapon:** *Crushing teeth and claws, Frag grenades, Krak grenades, Thunder hammer*
 
@@ -145,14 +145,14 @@
 **++ Profile Summary ++**
 
 
-. **Aura of Majesty:** Description:- Add 3" to the range of this WARLORD's Rites of Battle, Tactical Precision, Chapter Master and Spiritual Leaders abilities (to a maximum of 9").
-- Add 3" to the range of any litanies recited by this WARLORD (to a maximum of 9").|
-
 . **Belt of Russ:** Description:This model has a 4+ invulnerable save.|
 
 . **Chapter Master:** Description: In your Command phase, select one friendly SPACE WOLVES CORE or SPACE WOLVES CHARACTER unit within 6" of this model. Until the start of your next Command phase, each time a model in that unit makes an attack, you can re-roll the hit roll.|
 
 . **High King of Fenris:** Description:If this model is your Warlord, it is always treated as having completed the Deed associated with its Warlord Trait.|
+
+. **Hunter:** Description:- Add 1 to Advance and charge rolls made for this WARLORD.
+- This WARLORD is eligible to charge in a turn in which it Advanced or Fell Back.|
 
 . **Lord of the Wolfkin (Aura):** Description:While a friendly SPACE WOLVES CAVALRY or SPACE WOLVES BEAST unit is within 6" of this model, models in that unit can use this model’s Leadership characteristic instead of their own.|
 
@@ -206,35 +206,6 @@
 . **The Axe Morkai - Two-handed:** Range:Melee|Type:Melee|S:x2|AP:-3|D:3|Abilities:-|
 
 . **Thunder hammer:** Range:Melee|Type:Melee|S:x2|AP:-2|D:3|Abilities:Each time an attack is made with this weapon, subtract 1 from that attack’s hit roll.|
-
-&nbsp;
-
-**++ Roster Rules ++**
-
-
-. **Angels of Death:** This unit has the following abilities: And They Shall Know No Fear, Bolter Discipline, Shock Assault and Combat Doctrines. ()
-
-. **Bolter Discipline:** Instead of following the normal rules for Rapid Fire weapons, models in this unit shooting Rapid Fire bolt weapons make double the number of attacks if any of the following apply
-
-- The shooting model's target is within half the weapon's range
-- The shooting model is Infantry (excluding Centurion models) and it's unit Remained Stationary in your previous Movement Phase.
-- The shooting model is a Terminator or Biker
-
-For the purposes of this ability, a Rapid Fire bolt weapon is any bolt weapon (see page 195) with the Rapid Fire type.  ()
-
-. **Shock Assault:** Each time this unit fights if it made a charge move, was charged or performed a Heroic Intervention this turn, then until that fight is resolved, add 1 to the Attacks characteristic of models in this unit.  ()
-
-&nbsp;
-
-**++ Selection Rules ++**
-
-
-. **Angels of Death:** This unit has the following abilities: And They Shall Know No Fear, Bolter Discipline, Shock Assault and Combat Doctrines. ()
-
-. **Hunters Unleashed:** - Each time a model with this tactic makes a melee attack, if that model’s unit made a charge move, was charged or performed a Heroic Intervention this turn, add 1 to that attack’s hit roll. 
-- Units with this tactic are eligible to perform Heroic Interventions as if they were CHARACTERS. ()
-
-. **Outflank:** During deployment, if every model in this unit has this ability, then you can set up this unit behind enemy lines instead of setting it up on the battlefield. If you do, then in the Reinforcements step of one of your Movement phases you can set up this unit wholly within 6" of any battlefield edge and more than 9" away from any enemy models ()
 
 &nbsp;
 
